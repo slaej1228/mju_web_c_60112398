@@ -1,0 +1,30 @@
+table{
+	width:90%;
+	border-collapse: collapse;
+	margin-top: 30px;
+}
+
+table, th, td{
+	border: 1px solid black;
+}
+
+td{	
+	padding:5px;
+	color: #000;
+}
+
+th{
+	background-color: #E9967A; 
+	background-repeat: no-repeat;
+	color: #fff;
+	text-align:center;
+	vertical-align:middle;
+}
+
+a{color:#000; text-decoration:none; font-weight=bold;}
+
+a:hover{color:#A9A9A9; text-decoration:none; font-weight=bold;}
+
+a:link{text-decoration:underline;}
+
+span.darkcyan{color:#DC143C;}
